@@ -50,8 +50,8 @@ sudo cp ~/m2m-aligner-1.2/m2m-aligner /usr/local/bin/m2m-aligner
 sudo cp ~/is2013-conversion/bin/phonetisaurus-g2p /usr/local/bin/phonetisaurus-g2p
 sudo apt-get install python-pocketsphinx -y
 sudo chmod +x install_jasper_python.sh
-echo --- ... Finished!! Rebooting ... ---
-echo --- ... --- ... --- ... --- ... --- ... --- ... --- ... --- ... --- ... ----- After reboot, please run "install_jaspter_python.sh"
+echo --- ... All \done here. Remember to run "install_jaspter_python.sh" next ... ---
+echo --- ... --- ... --- ... --- ... --- ... --- ... --- ... --- ... --- ... ----- rebooting
 sudo reboot
-echo --- ... You will not see this! ---
-echo --- ... a ... ---
+echo --- ... invisible ...---
+echo --- ... farewell ... ---
